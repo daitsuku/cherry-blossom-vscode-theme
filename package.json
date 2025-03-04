@@ -1,8 +1,19 @@
 {
   "name": "cherry-blossom-vscode-theme",
-  "displayName": "Cherry Blossom",
+  "author": {
+    "name": "daitsuku",
+    "email": "donlabob1051@gmail.com"
+  },
+  "publisher": "daitsuku",
+  "icon": "./icon.png",
+  "displayName": "Cherry Blossom Theme",
   "description": "A VSCode theme inspired by a color palette of a sakura / cherry blossom.",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daitsuku/cherry-blossom-vscode-theme.git"
+  },
+  "license": "MIT",
   "engines": {
     "vscode": "^1.97.0"
   },
