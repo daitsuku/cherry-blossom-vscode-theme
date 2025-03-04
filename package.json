@@ -12,9 +12,34 @@
   "contributes": {
     "themes": [
       {
-        "label": "Cherry Blossom Theme",
+        "label": "Cherry Blossom Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Cherry Blossom Theme-color-theme.json"
+        "path": "./themes/dark.json"
+      },
+      {
+        "label": "Cherry Blossom Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/night.json"
+      },
+      {
+        "label": "Cherry Blossom Night Harmony",
+        "uiTheme": "vs-dark",
+        "path": "./themes/harmony.json"
+      },
+      {
+        "label": "Cherry Blossom Night Twilight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/twilight.json"
+      },
+      {
+        "label": "Cherry Blossom Night Breeze",
+        "uiTheme": "vs-dark",
+        "path": "./themes/breeze.json"
+      },
+      {
+        "label": "Cherry Blossom Sky",
+        "uiTheme": "vs",
+        "path": "./themes/light.json"
       }
     ]
   }
