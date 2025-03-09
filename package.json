@@ -1,57 +1,72 @@
 {
-  "name": "cherry-blossom-vscode-theme",
-  "author": {
-    "name": "daitsuku",
-    "email": "donlabob1051@gmail.com"
-  },
-  "publisher": "daitsuku",
-  "icon": "./icon.png",
-  "displayName": "Cherry Blossom Theme",
-  "description": "A VSCode theme inspired by a color palette of a sakura / cherry blossom.",
-  "version": "0.0.2",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/daitsuku/cherry-blossom-vscode-theme.git"
-  },
-  "license": "MIT",
-  "engines": {
-    "vscode": "^1.97.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Cherry Blossom Dark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/dark.json"
-      },
-      {
-        "label": "Cherry Blossom Night",
-        "uiTheme": "vs-dark",
-        "path": "./themes/night.json"
-      },
-      {
-        "label": "Cherry Blossom Night Harmony",
-        "uiTheme": "vs-dark",
-        "path": "./themes/harmony.json"
-      },
-      {
-        "label": "Cherry Blossom Night Twilight",
-        "uiTheme": "vs-dark",
-        "path": "./themes/twilight.json"
-      },
-      {
-        "label": "Cherry Blossom Night Breeze",
-        "uiTheme": "vs-dark",
-        "path": "./themes/breeze.json"
-      },
-      {
-        "label": "Cherry Blossom Sky",
-        "uiTheme": "vs",
-        "path": "./themes/light.json"
-      }
-    ]
-  }
+    "name": "cherry-blossom-vscode-theme",
+    "author": {
+        "name": "daitsuku",
+        "email": "donlabob1051@gmail.com"
+    },
+    "publisher": "daitsuku",
+    "icon": "./icon.png",
+    "displayName": "Cherry Blossom Theme",
+    "description": "A VSCode theme inspired by a color palette of a sakura / cherry blossom.",
+    "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/daitsuku/cherry-blossom-vscode-theme.git"
+    },
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.97.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cherry Blossom Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark/dark.json"
+            },
+            {
+                "label": "Cherry Blossom Dark Vivid",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark/vivid.json"
+            },
+            {
+                "label": "Cherry Blossom Dark Reflection",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark/reflection.json"
+            },
+            {
+                "label": "Cherry Blossom Night",
+                "uiTheme": "vs-dark",
+                "path": "./themes/night/night.json"
+            },
+            {
+                "label": "Cherry Blossom Night Harmony",
+                "uiTheme": "vs-dark",
+                "path": "./themes/night/harmony.json"
+            },
+            {
+                "label": "Cherry Blossom Night Twilight",
+                "uiTheme": "vs-dark",
+                "path": "./themes/night/twilight.json"
+            },
+            {
+                "label": "Cherry Blossom Night Breeze",
+                "uiTheme": "vs-dark",
+                "path": "./themes/night/breeze.json"
+            },
+            {
+                "label": "Cherry Blossom Warm",
+                "uiTheme": "vs",
+                "path": "./themes/light/warm.json"
+            },
+            {
+                "label": "Cherry Blossom Sky",
+                "uiTheme": "vs",
+                "path": "./themes/light/light.json"
+            }
+        ]
+    }
 }
