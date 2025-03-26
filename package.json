@@ -58,6 +58,16 @@
                 "path": "./themes/night/breeze.json"
             },
             {
+                "label": "Cherry Blossom Dimmed",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dimmed/dimmed.json"
+            },
+            {
+                "label": "Cherry Blossom Airy",
+                "uiTheme": "vs",
+                "path": "./themes/light/airy.json"
+            },
+            {
                 "label": "Cherry Blossom Warm",
                 "uiTheme": "vs",
                 "path": "./themes/light/warm.json"
