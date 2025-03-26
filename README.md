@@ -5,13 +5,16 @@ A beautiful and soothing Visual Studio Code theme collection inspired by the del
 ## 🎨 Theme Variants
 
 - **Cherry Blossom Dark**: A sleek dark theme with vivid sakura pink accents
+- **Cherry Blossom Dark Reflection**: A refined dark theme with subtle cherry blossom reflections
+- **Cherry Blossom Dark Vivid**: Vibrant nature-inspired colors on a minimal dark background
 - **Cherry Blossom Night**: Inspired by Japan's night festivals with warm lantern-like glow
 - **Cherry Blossom Night Harmony**: A balanced dark theme with gentle sakura hues
 - **Cherry Blossom Night Twilight**: Sunset colors with floating sakura petals
 - **Cherry Blossom Night Breeze**: Cool blue tones with pink accents like petals in the wind
+- **Cherry Blossom Dimmed**: A deep dark theme with muted cherry tones and colorful syntax highlights
 - **Cherry Blossom Sky**: A light theme with the freshness of spring skies
 - **Cherry Blossom Warm**: A light theme capturing the warmth of spring in Japan
-- **Cherry Blossom Dark Vivid**: Vibrant nature-inspired colors on a minimal dark background
+- **Cherry Blossom Airy**: A delicate light theme with soft pastels like scattered petals
 
 ## ✨ Features
 
@@ -27,7 +30,7 @@ A beautiful and soothing Visual Studio Code theme collection inspired by the del
 2. Search for `Cherry Blossom Theme`
 3. Click **Install**
 4. Open the **Command Palette** (`Ctrl+Shift+P` or `Cmd+Shift+P`)
-5. Select **Preferences: Color Theme** and choose any Cherry Blossom variant
+5. Select **Preferences: Color Theme** and choose any Cherry Blossom variant (Or use `CTRL+K+T` to choose themes)
 
 ## 🛠️ Customization
 
