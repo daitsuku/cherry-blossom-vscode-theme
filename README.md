@@ -12,6 +12,7 @@ A beautiful and soothing Visual Studio Code theme collection inspired by the del
 - **Cherry Blossom Night Twilight**: Sunset colors with floating sakura petals
 - **Cherry Blossom Night Breeze**: Cool blue tones with pink accents like petals in the wind
 - **Cherry Blossom Dimmed**: A deep dark theme with muted cherry tones and colorful syntax highlights
+- **Cherry Blossom Dimmed Dusk**: Earthy tones inspired by Kyoto's historic streets at dusk
 - **Cherry Blossom Sky**: A light theme with the freshness of spring skies
 - **Cherry Blossom Warm**: A light theme capturing the warmth of spring in Japan
 - **Cherry Blossom Airy**: A delicate light theme with soft pastels like scattered petals
